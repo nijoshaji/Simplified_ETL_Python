@@ -1,0 +1,126 @@
+sale_id,date,customer_id,customer_name,product_id,product_name,category,quantity,price,total_amount,profit_margin,day,month,year,quarter
+1001,01/09/2024,C101,Alex Johnson,P201,Wireless Mouse,Electronics,2,29.99,59.98,19.98,1,9,2024,3
+1002,02/09/2024,C102,Emily Davis,P202,LED Desk Lamp,Home & Office,1,49.99,49.99,14.99,2,9,2024,3
+1003,02/09/2024,C103,Michael Brown,P203,Notebook Set,Stationery,3,15.99,47.97,17.97,2,9,2024,3
+1004,03/09/2024,C101,Alex Johnson,P204,Bluetooth Speaker,Electronics,1,99.99,99.99,24.99,3,9,2024,3
+1005,04/09/2024,C104,Sophia Wilson,P201,Wireless Mouse,Electronics,2,29.99,59.98,19.98,4,9,2024,3
+1006,05/09/2024,C105,Daniel Smith,P202,LED Desk Lamp,Home & Office,4,49.99,199.96,59.96,5,9,2024,3
+1007,06/09/2024,C106,Olivia Martin,P203,Notebook Set,Stationery,1,15.99,15.99,5.99,6,9,2024,3
+1008,07/09/2024,C107,Matthew Clark,P204,Bluetooth Speaker,Electronics,5,99.99,499.95,124.95,7,9,2024,3
+1009,08/09/2024,C108,Isabella Lewis,P201,Wireless Mouse,Electronics,2,29.99,59.98,19.98,8,9,2024,3
+1010,09/09/2024,C109,Ethan Walker,P202,LED Desk Lamp,Home & Office,3,49.99,149.97,44.97,9,9,2024,3
+1011,10/09/2024,C110,Mia Hall,P203,Notebook Set,Stationery,2,15.99,31.98,11.98,10,9,2024,3
+1012,11/09/2024,C111,William Young,P204,Bluetooth Speaker,Electronics,4,99.99,399.96,99.96,11,9,2024,3
+1013,12/09/2024,C112,Ava Hernandez,P201,Wireless Mouse,Electronics,1,29.99,29.99,9.99,12,9,2024,3
+1014,13/09/2024,C113,James King,P202,LED Desk Lamp,Home & Office,5,49.99,249.95,74.95,13,9,2024,3
+1015,14/09/2024,C114,Charlotte Wright,P203,Notebook Set,Stationery,3,15.99,47.97,17.97,14,9,2024,3
+1016,15/09/2024,C115,Logan Lopez,P204,Bluetooth Speaker,Electronics,2,99.99,199.98,49.98,15,9,2024,3
+1017,16/09/2024,C116,Amelia Hill,P201,Wireless Mouse,Electronics,4,29.99,119.96,39.96,16,9,2024,3
+1018,17/09/2024,C117,Benjamin Scott,P202,LED Desk Lamp,Home & Office,1,49.99,49.99,14.99,17,9,2024,3
+1019,18/09/2024,C118,Evelyn Green,P203,Notebook Set,Stationery,5,15.99,79.95,29.95,18,9,2024,3
+1020,19/09/2024,C119,Jacob Adams,P204,Bluetooth Speaker,Electronics,3,99.99,299.97,74.97,19,9,2024,3
+1021,20/09/2024,C120,Harper Baker,P201,Wireless Mouse,Electronics,2,29.99,59.98,19.98,20,9,2024,3
+1022,21/09/2024,C121,Alexander Gonzalez,P202,LED Desk Lamp,Home & Office,4,49.99,199.96,59.96,21,9,2024,3
+1023,22/09/2024,C122,Abigail Nelson,P203,Notebook Set,Stationery,1,15.99,15.99,5.99,22,9,2024,3
+1024,23/09/2024,C123,Jackson Carter,P204,Bluetooth Speaker,Electronics,5,99.99,499.95,124.95,23,9,2024,3
+1025,24/09/2024,C124,Emily Mitchell,P201,Wireless Mouse,Electronics,3,29.99,89.97,29.97,24,9,2024,3
+1026,25/09/2024,C125,Liam Perez,P202,LED Desk Lamp,Home & Office,2,49.99,99.98,29.98,25,9,2024,3
+1027,26/09/2024,C126,Sophia Roberts,P203,Notebook Set,Stationery,4,15.99,63.96,23.96,26,9,2024,3
+1028,27/09/2024,C127,Noah Turner,P204,Bluetooth Speaker,Electronics,1,99.99,99.99,24.99,27,9,2024,3
+1029,28/09/2024,C128,Grace Phillips,P201,Wireless Mouse,Electronics,5,29.99,149.95,49.95,28,9,2024,3
+1030,29/09/2024,C129,Elijah Campbell,P202,LED Desk Lamp,Home & Office,3,49.99,149.97,44.97,29,9,2024,3
+1031,30/09/2024,C130,Chloe Parker,P203,Notebook Set,Stationery,2,15.99,31.98,11.98,30,9,2024,3
+1032,01/10/2024,C131,Aiden Evans,P204,Bluetooth Speaker,Electronics,4,99.99,399.96,99.96,1,10,2024,4
+1033,02/10/2024,C132,Victoria Edwards,P201,Wireless Mouse,Electronics,1,29.99,29.99,9.99,2,10,2024,4
+1034,03/10/2024,C133,Lucas Collins,P202,LED Desk Lamp,Home & Office,5,49.99,249.95,74.95,3,10,2024,4
+1035,04/10/2024,C134,Penelope Stewart,P203,Notebook Set,Stationery,3,15.99,47.97,17.97,4,10,2024,4
+1036,05/10/2024,C135,Oliver Sanchez,P204,Bluetooth Speaker,Electronics,2,99.99,199.98,49.98,5,10,2024,4
+1037,06/10/2024,C136,Lily Morris,P201,Wireless Mouse,Electronics,4,29.99,119.96,39.96,6,10,2024,4
+1038,07/10/2024,C137,Henry Rogers,P202,LED Desk Lamp,Home & Office,1,49.99,49.99,14.99,7,10,2024,4
+1039,08/10/2024,C138,Ella Reed,P203,Notebook Set,Stationery,5,15.99,79.95,29.95,8,10,2024,4
+1040,09/10/2024,C139,Samuel Cook,P204,Bluetooth Speaker,Electronics,3,99.99,299.97,74.97,9,10,2024,4
+1041,10/10/2024,C140,Madison Morgan,P201,Wireless Mouse,Electronics,2,29.99,59.98,19.98,10,10,2024,4
+1042,11/10/2024,C141,Daniel Bell,P202,LED Desk Lamp,Home & Office,4,49.99,199.96,59.96,11,10,2024,4
+1043,12/10/2024,C142,Sofia Murphy,P203,Notebook Set,Stationery,1,15.99,15.99,5.99,12,10,2024,4
+1044,13/10/2024,C143,Joseph Bailey,P204,Bluetooth Speaker,Electronics,5,99.99,499.95,124.95,13,10,2024,4
+1045,14/10/2024,C144,Hannah Rivera,P201,Wireless Mouse,Electronics,3,29.99,89.97,29.97,14,10,2024,4
+1046,15/10/2024,C145,David Cooper,P202,LED Desk Lamp,Home & Office,2,49.99,99.98,29.98,15,10,2024,4
+1047,16/10/2024,C146,Aria Richardson,P203,Notebook Set,Stationery,4,15.99,63.96,23.96,16,10,2024,4
+1048,17/10/2024,C147,Carter Cox,P204,Bluetooth Speaker,Electronics,1,99.99,99.99,24.99,17,10,2024,4
+1049,18/10/2024,C148,Scarlett Howard,P201,Wireless Mouse,Electronics,5,29.99,149.95,49.95,18,10,2024,4
+1050,19/10/2024,C149,Owen Ward,P202,LED Desk Lamp,Home & Office,3,49.99,149.97,44.97,19,10,2024,4
+1051,20/10/2024,C150,Lillian Torres,P203,Notebook Set,Stationery,2,15.99,31.98,11.98,20,10,2024,4
+1052,21/10/2024,C151,Wyatt Peterson,P204,Bluetooth Speaker,Electronics,4,99.99,399.96,99.96,21,10,2024,4
+1053,22/10/2024,C152,Ella Gray,P201,Wireless Mouse,Electronics,1,29.99,29.99,9.99,22,10,2024,4
+1054,23/10/2024,C153,Jack Ramirez,P202,LED Desk Lamp,Home & Office,5,49.99,249.95,74.95,23,10,2024,4
+1055,24/10/2024,C154,Eleanor James,P203,Notebook Set,Stationery,3,15.99,47.97,17.97,24,10,2024,4
+1056,25/10/2024,C155,Matthew Brooks,P204,Bluetooth Speaker,Electronics,2,99.99,199.98,49.98,25,10,2024,4
+1057,26/10/2024,C156,Avery Kelly,P201,Wireless Mouse,Electronics,4,29.99,119.96,39.96,26,10,2024,4
+1058,27/10/2024,C157,Sebastian Sanders,P202,LED Desk Lamp,Home & Office,1,49.99,49.99,14.99,27,10,2024,4
+1059,28/10/2024,C158,Zoey Price,P203,Notebook Set,Stationery,5,15.99,79.95,29.95,28,10,2024,4
+1060,29/10/2024,C159,Caleb Bennett,P204,Bluetooth Speaker,Electronics,3,99.99,299.97,74.97,29,10,2024,4
+1061,30/10/2024,C160,Nora Wood,P201,Wireless Mouse,Electronics,2,29.99,59.98,19.98,30,10,2024,4
+1062,31/10/2024,C161,Andrew Barnes,P202,LED Desk Lamp,Home & Office,4,49.99,199.96,59.96,31,10,2024,4
+1063,01/11/2024,C162,Riley Ross,P203,Notebook Set,Stationery,1,15.99,15.99,5.99,1,11,2024,4
+1064,02/11/2024,C163,Isaac Henderson,P204,Bluetooth Speaker,Electronics,5,99.99,499.95,124.95,2,11,2024,4
+1065,03/11/2024,C164,Samantha Coleman,P201,Wireless Mouse,Electronics,3,29.99,89.97,29.97,3,11,2024,4
+1066,04/11/2024,C165,Ryan Jenkins,P202,LED Desk Lamp,Home & Office,2,49.99,99.98,29.98,4,11,2024,4
+1067,05/11/2024,C166,Leah Perry,P203,Notebook Set,Stationery,4,15.99,63.96,23.96,5,11,2024,4
+1068,06/11/2024,C167,Christopher Powell,P204,Bluetooth Speaker,Electronics,1,99.99,99.99,24.99,6,11,2024,4
+1069,07/11/2024,C168,Audrey Long,P201,Wireless Mouse,Electronics,5,29.99,149.95,49.95,7,11,2024,4
+1070,08/11/2024,C169,Nathan Patterson,P202,LED Desk Lamp,Home & Office,3,49.99,149.97,44.97,8,11,2024,4
+1071,09/11/2024,C170,Grace Hughes,P203,Notebook Set,Stationery,2,15.99,31.98,11.98,9,11,2024,4
+1072,10/11/2024,C171,Thomas Flores,P204,Bluetooth Speaker,Electronics,4,99.99,399.96,99.96,10,11,2024,4
+1073,11/11/2024,C172,Violet Simmons,P201,Wireless Mouse,Electronics,1,29.99,29.99,9.99,11,11,2024,4
+1074,12/11/2024,C173,Caleb Foster,P202,LED Desk Lamp,Home & Office,5,49.99,249.95,74.95,12,11,2024,4
+1075,13/11/2024,C174,Lily Butler,P203,Notebook Set,Stationery,3,15.99,47.97,17.97,13,11,2024,4
+1076,14/11/2024,C175,Jonathan Richardson,P204,Bluetooth Speaker,Electronics,2,99.99,199.98,49.98,14,11,2024,4
+1077,15/11/2024,C176,Zoe Bryant,P201,Wireless Mouse,Electronics,4,29.99,119.96,39.96,15,11,2024,4
+1078,16/11/2024,C177,Charles Alexander,P202,LED Desk Lamp,Home & Office,1,49.99,49.99,14.99,16,11,2024,4
+1079,17/11/2024,C178,Stella Russell,P203,Notebook Set,Stationery,5,15.99,79.95,29.95,17,11,2024,4
+1080,18/11/2024,C179,Christian Griffin,P204,Bluetooth Speaker,Electronics,3,99.99,299.97,74.97,18,11,2024,4
+1081,19/11/2024,C180,Evelyn Diaz,P201,Wireless Mouse,Electronics,2,29.99,59.98,19.98,19,11,2024,4
+1082,20/11/2024,C181,Aaron Hayes,P202,LED Desk Lamp,Home & Office,4,49.99,199.96,59.96,20,11,2024,4
+1083,21/11/2024,C182,Lucy Myers,P203,Notebook Set,Stationery,1,15.99,15.99,5.99,21,11,2024,4
+1084,22/11/2024,C183,Adam Ford,P204,Bluetooth Speaker,Electronics,5,99.99,499.95,124.95,22,11,2024,4
+1085,23/11/2024,C184,Victoria Hamilton,P201,Wireless Mouse,Electronics,3,29.99,89.97,29.97,23,11,2024,4
+1086,24/11/2024,C185,Isaiah Graham,P202,LED Desk Lamp,Home & Office,2,49.99,99.98,29.98,24,11,2024,4
+1087,25/11/2024,C186,Brooklyn Wallace,P203,Notebook Set,Stationery,4,15.99,63.96,23.96,25,11,2024,4
+1088,26/11/2024,C187,Nicholas West,P204,Bluetooth Speaker,Electronics,1,99.99,99.99,24.99,26,11,2024,4
+1089,27/11/2024,C188,Anna Cole,P201,Wireless Mouse,Electronics,5,29.99,149.95,49.95,27,11,2024,4
+1090,28/11/2024,C189,Jeremiah Jordan,P202,LED Desk Lamp,Home & Office,3,49.99,149.97,44.97,28,11,2024,4
+1091,29/11/2024,C190,Hazel Reynolds,P203,Notebook Set,Stationery,2,15.99,31.98,11.98,29,11,2024,4
+1092,30/11/2024,C191,Joshua Fisher,P204,Bluetooth Speaker,Electronics,4,99.99,399.96,99.96,30,11,2024,4
+1093,01/12/2024,C192,Claire Kim,P201,Wireless Mouse,Electronics,1,29.99,29.99,9.99,1,12,2024,4
+1094,02/12/2024,C193,Levi Butler,P202,LED Desk Lamp,Home & Office,5,49.99,249.95,74.95,2,12,2024,4
+1095,03/12/2024,C194,Aria Bennett,P203,Notebook Set,Stationery,3,15.99,47.97,17.97,3,12,2024,4
+1096,04/12/2024,C195,David Cox,P204,Bluetooth Speaker,Electronics,2,99.99,199.98,49.98,4,12,2024,4
+1097,05/12/2024,C196,Scarlett Nguyen,P201,Wireless Mouse,Electronics,4,29.99,119.96,39.96,5,12,2024,4
+1098,06/12/2024,C197,Isaac Brooks,P202,LED Desk Lamp,Home & Office,1,49.99,49.99,14.99,6,12,2024,4
+1099,07/12/2024,C198,Luna Ward,P203,Notebook Set,Stationery,5,15.99,79.95,29.95,7,12,2024,4
+1100,08/12/2024,C199,Julian Torres,P204,Bluetooth Speaker,Electronics,3,99.99,299.97,74.97,8,12,2024,4
+1101,09/12/2024,C200,Sadie Peterson,P201,Wireless Mouse,Electronics,2,29.99,59.98,19.98,9,12,2024,4
+1102,10/12/2024,C101,Alex Johnson,P202,LED Desk Lamp,Home & Office,4,49.99,199.96,59.96,10,12,2024,4
+1103,11/12/2024,C102,Emily Davis,P203,Notebook Set,Stationery,1,15.99,15.99,5.99,11,12,2024,4
+1104,12/12/2024,C103,Michael Brown,P204,Bluetooth Speaker,Electronics,5,99.99,499.95,124.95,12,12,2024,4
+1105,13/12/2024,C104,Sophia Wilson,P201,Wireless Mouse,Electronics,3,29.99,89.97,29.97,13,12,2024,4
+1106,14/12/2024,C105,Daniel Smith,P202,LED Desk Lamp,Home & Office,2,49.99,99.98,29.98,14,12,2024,4
+1107,15/12/2024,C106,Olivia Martin,P203,Notebook Set,Stationery,4,15.99,63.96,23.96,15,12,2024,4
+1108,16/12/2024,C107,Matthew Clark,P204,Bluetooth Speaker,Electronics,1,99.99,99.99,24.99,16,12,2024,4
+1109,17/12/2024,C108,Isabella Lewis,P201,Wireless Mouse,Electronics,5,29.99,149.95,49.95,17,12,2024,4
+1110,18/12/2024,C109,Ethan Walker,P202,LED Desk Lamp,Home & Office,3,49.99,149.97,44.97,18,12,2024,4
+1111,19/12/2024,C110,Mia Hall,P203,Notebook Set,Stationery,2,15.99,31.98,11.98,19,12,2024,4
+1112,20/12/2024,C111,William Young,P204,Bluetooth Speaker,Electronics,4,99.99,399.96,99.96,20,12,2024,4
+1113,21/12/2024,C112,Ava Hernandez,P201,Wireless Mouse,Electronics,1,29.99,29.99,9.99,21,12,2024,4
+1114,22/12/2024,C113,James King,P202,LED Desk Lamp,Home & Office,5,49.99,249.95,74.95,22,12,2024,4
+1115,23/12/2024,C114,Charlotte Wright,P203,Notebook Set,Stationery,3,15.99,47.97,17.97,23,12,2024,4
+1116,24/12/2024,C115,Logan Lopez,P204,Bluetooth Speaker,Electronics,2,99.99,199.98,49.98,24,12,2024,4
+1117,25/12/2024,C116,Amelia Hill,P201,Wireless Mouse,Electronics,4,29.99,119.96,39.96,25,12,2024,4
+1118,26/12/2024,C117,Benjamin Scott,P202,LED Desk Lamp,Home & Office,1,49.99,49.99,14.99,26,12,2024,4
+1119,27/12/2024,C118,Evelyn Green,P203,Notebook Set,Stationery,5,15.99,79.95,29.95,27,12,2024,4
+1120,28/12/2024,C119,Jacob Adams,P204,Bluetooth Speaker,Electronics,3,99.99,299.97,74.97,28,12,2024,4
+1121,29/12/2024,C120,Harper Baker,P201,Wireless Mouse,Electronics,2,29.99,59.98,19.98,29,12,2024,4
+1122,30/12/2024,C121,Alexander Gonzalez,P202,LED Desk Lamp,Home & Office,4,49.99,199.96,59.96,30,12,2024,4
+1123,31/12/2024,C122,Abigail Nelson,P203,Notebook Set,Stationery,1,15.99,15.99,5.99,31,12,2024,4
+1124,01/01/2025,C123,Jackson Carter,P204,Bluetooth Speaker,Electronics,5,99.99,499.95,124.95,1,1,2025,1
+1125,02/01/2025,C124,Emily Mitchell,P201,Wireless Mouse,Electronics,3,29.99,89.97,29.97,2,1,2025,1

@@ -1,0 +1,6 @@
+Sales Summary 2024-25
+The total sales for each category is: {'Electronics': 12228.14, 'Home & Office': 4649.07, 'Stationery': 1439.1}.
+The top 3 selling categories are: {'Bluetooth Speaker': 499.95, 'LED Desk Lamp': 199.96}.
+The profits for each category is: {'Electronics': 3283.14, 'Home & Office': 1394.07, 'Stationery': 539.1}.
+The monthly sales are as follows: {9: 4215.14, 10: 4677.06, 11: 4541.1, 12: 4293.09, 1: 589.92}.
+The quarterly sales are as follows: {3: 4215.14, 4: 13511.25, 1: 589.92}.
